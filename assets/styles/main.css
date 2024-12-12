@@ -126,3 +126,39 @@ header .container  ul li a {
     padding: 0 8px;
   }
 }
+.hero{
+position: relative;
+}
+.hero-info{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 100px;
+
+}
+.hero .dot{
+position: absolute;
+left: -20px;
+}
+.hero-left{
+padding-top:200px;
+}
+.hero-left h2{
+  font-size: 40px;
+  padding: 20px 0;
+}
+.hero-left p{
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text-color);
+  padding-bottom: 25px;
+}
+.hero-left .hero-btn{
+  background-color: var(--main-color);
+  padding: 16px;
+  border-radius: 50px;
+  color: var(--alt-text-color);
+}
+.hero-info  img{
+  width: 100%;
+}
