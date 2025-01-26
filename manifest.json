@@ -5,9 +5,9 @@
   "background_color": "#87A2FF",
   "display": "standalone",
   "orientation": "any",
-  "scope": "dinahellal.github.io/Trafalgar",
-  "start_url": "dinahellal.github.io/Trafalgar",
-  "id": "dinahellal.github.io/Trafalgar",
+  "scope": "https://dinahellal.github.io/Trafalgar",
+  "start_url": "https://dinahellal.github.io/Trafalgar",
+  "id": "https://dinahellal.github.io/Trafalgar/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
